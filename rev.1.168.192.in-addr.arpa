@@ -1,0 +1,22 @@
+$TTL 3D
+
+@ IN SOA server.conor.com. admin.conor.com. (
+	2;
+	28800;
+	604800;
+	604800;
+	86400
+)
+
+	IN NS server.
+1	IN PTR gateway.conor.com
+5	IN PTR server.conor.com
+12	IN PTR client.conor.com.
+
+	
+
+
+
+
+
+
